@@ -1,7 +1,6 @@
 # Whisper-Mach
 Transcriptions of 100+ audio files from prestigious/abstract artist curated from form of skeleton OpenAI-Whisper API, thereby delivering clarity to an enjoyable niche, with 90%+ initial acc, far exceeding time constraints of ear-to-keystroke translations predating the method. Not monetized out of respect for artist's standings.
 
-[![Animation](https://user-images.githubusercontent.com/97220909/215906350-1a72ede8-030c-4961-b1fe-d27ca268f698.mp4)](https://user-images.githubusercontent.com/97220909/215907372-016868b0-985d-4760-adbe-4dbfb36aaea6.mp4)
 ## What is Whisper?
 
 
